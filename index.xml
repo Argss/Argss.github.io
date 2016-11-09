@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>/index.xml</link>
+    <link>anton-g.com/index.xml</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Nov 2016 18:21:15 +0100</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="anton-g.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>This is a test</title>
-      <link>/post/this-is-a-test/</link>
+      <link>/anton-g.com/post/this-is-a-test/</link>
       <pubDate>Wed, 09 Nov 2016 18:21:15 +0100</pubDate>
       
-      <guid>/post/this-is-a-test/</guid>
+      <guid>/anton-g.com/post/this-is-a-test/</guid>
       <description>&lt;p&gt;Testing a post&lt;/p&gt;
 </description>
     </item>
