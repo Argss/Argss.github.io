@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on anton-g.com</title>
+    <link>http://anton-g.com/portfolio/</link>
+    <description>Recent content in Portfolios on anton-g.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Mar 2018 21:26:24 +0100</lastBuildDate>
+    
+	<atom:link href="http://anton-g.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Breakwater</title>
+      <link>http://anton-g.com/portfolio/breakwater/</link>
+      <pubDate>Sat, 24 Mar 2018 21:26:24 +0100</pubDate>
+      
+      <guid>http://anton-g.com/portfolio/breakwater/</guid>
+      <description>Test</description>
+    </item>
+    
+    <item>
+      <title>Spin TD</title>
+      <link>http://anton-g.com/portfolio/spintd/</link>
+      <pubDate>Sat, 24 Mar 2018 21:26:24 +0100</pubDate>
+      
+      <guid>http://anton-g.com/portfolio/spintd/</guid>
+      <description>http://steamcommunity.com/sharedfiles/filedetails/?id=497032202</description>
+    </item>
+    
+  </channel>
+</rss>
